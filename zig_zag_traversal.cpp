@@ -1,3 +1,13 @@
+/*    Algorithm :
+                    1) inorder traversal using queue
+                    2) use of flag bool to dtermine direction
+                    3) index = leftToRight ? i : size-1-i
+                    4) using temporary vector with size mentioned
+                    5) index alltment based on flag
+                    6) or reverse temp based on flag
+                    
+*/ 
+
 #include<iostream>
 #include<queue>
 using namespace std;
