@@ -28,4 +28,4 @@ Some important Tree functions
 25) kth ancestor
 26) sum of longest bloodline
 27) max sum of non - adjacent nodes
-28)
+28) construct binary tree from preorder and inorder 
