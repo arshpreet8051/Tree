@@ -1,8 +1,9 @@
-#include<set>
-#include<queue>
-#include<stdlib.h>
-#include<map>
-#include<vector>
+// #include<set>
+// #include<queue>
+// #include<stdlib.h>
+// #include<map>
+// #include<vector>
+#include<bits/stdc++.h>
 using namespace std;
 
 class node{
