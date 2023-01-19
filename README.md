@@ -30,3 +30,4 @@ Some important Tree functions
 27) max sum of non - adjacent nodes
 28) construct binary tree from preorder and inorder 
 29) construct binary tree from postorder and inorder
+30) minimum time to burn a tree
