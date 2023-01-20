@@ -13,8 +13,8 @@ class node{
     }
 };
 
-// This is RECURSIVE approach
-
+// This is RECURSIVE approach  T.C ---> O(n)
+//                             S.C ---> O(n)
 /*    Algorithm  :
                     Logic ->  --> Set node* prev = NULL
                               --> if root NULL return
