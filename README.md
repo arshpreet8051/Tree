@@ -32,3 +32,4 @@ Some important Tree functions
 29) construct binary tree from postorder and inorder
 30) minimum time to burn a tree
 31) Morris Inorder traversal (Threaded Binary Tree)
+32) Morris Preorder traversal
