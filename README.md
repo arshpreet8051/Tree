@@ -33,3 +33,4 @@ Some important Tree functions
 30) minimum time to burn a tree
 31) Morris Inorder traversal (Threaded Binary Tree)
 32) Morris Preorder traversal
+33) Flatten a binary tree to linked list (Recursive)
