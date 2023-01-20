@@ -34,3 +34,5 @@ Some important Tree functions
 31) Morris Inorder traversal (Threaded Binary Tree)
 32) Morris Preorder traversal
 33) Flatten a binary tree to linked list (Recursive)
+34) Flatten a binary tree to linked list (Iterative) (Stack)
+35) Flatten a binary tree to linked list (iterative) ()
