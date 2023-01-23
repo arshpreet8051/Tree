@@ -23,7 +23,7 @@ Some important Tree functions
 20) zig-zag traversal
 21) vertical order taversal
 22) boundary traversal
-23) k-sum paths
+23) k-sum paths🐍
 24) lowest common ancestor (LCA)
 25) kth ancestor
 26) sum of longest bloodline
