@@ -25,7 +25,7 @@ Some important Tree functions
 22) boundary traversal
 23) k-sum paths🐍
 24) lowest common ancestor (LCA)
-25) kth ancestor
+25) kth ancestor              -----------> 2 approaches -> (vector & baktracking) and (reursion k--)
 26) sum of longest bloodline
 27) max sum of non - adjacent nodes
 28) construct binary tree from preorder and inorder 
