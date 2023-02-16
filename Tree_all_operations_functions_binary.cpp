@@ -13,7 +13,7 @@ using namespace std;
 4) inorder iterative         -------> Stack
 5) preorder recursive        -------> Recursion
 6) postorder recursive       -------> Recursion
-7) height O(n^2)             -------> Recursive calls
+7) height O(n2)              -------> Recursive calls
 8) height O(n)               -------> level order traversal
 9) diameter O(n^2)           -------> Dia left -- Dia Right -- height(root)
 10) diameter O(n)            -------> using pair to store height (avoid recursive calls)
@@ -127,7 +127,7 @@ void postorder(node* root){
     cout<<root->data<<" ";
 }
 
-// 7) Height of Binary Tree O(n^2)
+// 7) Height of Binary Tree O(n)
 int height(node* root){
     if(root==NULL){return 0;}
 
