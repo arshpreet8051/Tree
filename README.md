@@ -36,7 +36,7 @@ Some important Tree functions
 33) Flatten a binary tree to linked list (Recursive)
 34) Flatten a binary tree to linked list (Iterative) (Stack)
 35) Flatten a binary tree to linked list (iterative) (Moriss-Traversal)
-## -------------------------------------------------------------------------------------------------
+## ----------------------------------------------------------------------
 ## Extra Questions:
 -> Check Complete Binary Tree https://practice.geeksforgeeks.org/problems/complete-binary-tree/1  
 -> Symmetric Tree https://practice.geeksforgeeks.org/problems/symmetric-tree/1  
